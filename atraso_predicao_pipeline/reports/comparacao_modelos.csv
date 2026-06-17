@@ -1,0 +1,4 @@
+Modelo,Accuracy,Precision,Recall,F1,AUC-ROC
+Regressao Logistica,0.681,0.0447,0.2468,0.0757,0.4473
+Random Forest,0.9453,0.0952,0.0039,0.0075,0.5321
+HistGradientBoosting,0.947,0.3333,0.001,0.002,0.5739

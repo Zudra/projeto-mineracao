@@ -1,0 +1,16 @@
+Modelo,Metrica,Obtido,Artigo,Diferenca
+Regressao Logistica,Accuracy,0.681,0.6826,-0.0016
+Regressao Logistica,Precision,0.0447,0.0451,-0.0004
+Regressao Logistica,Recall,0.2468,0.2478,-0.001
+Regressao Logistica,F1,0.0757,0.0763,-0.0006
+Regressao Logistica,AUC-ROC,0.4473,0.4465,0.0008
+Random Forest,Accuracy,0.9453,0.9456,-0.0003
+Random Forest,Precision,0.0952,0.15,-0.0548
+Random Forest,Recall,0.0039,0.0059,-0.002
+Random Forest,F1,0.0075,0.0113,-0.0038
+Random Forest,AUC-ROC,0.5321,0.5355,-0.0034
+HistGradientBoosting,Accuracy,0.947,0.9471,-0.0001
+HistGradientBoosting,Precision,0.3333,0.0,0.3333
+HistGradientBoosting,Recall,0.001,0.0,0.001
+HistGradientBoosting,F1,0.002,0.0,0.002
+HistGradientBoosting,AUC-ROC,0.5739,0.5932,-0.0193

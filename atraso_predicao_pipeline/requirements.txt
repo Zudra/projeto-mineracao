@@ -1,0 +1,11 @@
+# Reproduzido em Python 3.14.5
+# Versoes fixadas para garantir reprodutibilidade dos resultados em RELATORIO_PREDICAO_ATRASOS.md
+
+pandas==3.0.2
+numpy==2.4.4
+scikit-learn==1.8.0
+imbalanced-learn==0.14.1
+matplotlib==3.10.9
+joblib==1.5.3
+nbconvert==7.17.1
+ipykernel==7.2.0
